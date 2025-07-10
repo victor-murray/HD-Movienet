@@ -4,7 +4,7 @@ HD-Movienet enables accelerated 3D radial k-space acquisition for motion-resolve
 
 This file is for a 3D HD-Movienet model state dictionary for 4 motion states.
 
-Main Python code located at: https://github.com/victor-murray/HD-Movienet.
+Files located at: https://www.kaggle.com/datasets/victormurray/hd-movienet
 
 Please, use this citation:
 
